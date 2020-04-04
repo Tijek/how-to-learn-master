@@ -1,0 +1,12 @@
+.khan__book-container {
+    display: flex;
+    flex-direction: row;
+}
+
+.khan__book-pic {
+    object-fit: cover;
+    object-position: left top;
+    margin-right: 20px;
+    width: 620px;
+    height: 608px;
+}

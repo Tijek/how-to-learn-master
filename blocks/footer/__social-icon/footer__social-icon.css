@@ -1,0 +1,10 @@
+.footer__social-icon {
+    list-style-type: none;
+    padding: 0;
+    margin-right: 10px;
+    line-height: 30px;
+    font-size: 18px;
+    font-weight: normal;
+    text-decoration: none;
+    color: #F2F2F2;
+}

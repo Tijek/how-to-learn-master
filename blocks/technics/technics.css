@@ -1,0 +1,11 @@
+@import url(../section-title/section-title.css);
+@import url(../section-subtitle/section-subtitle.css);
+@import url(../cards/cards.css);
+
+.technics {
+    display: flex;
+    flex-direction: column;
+    padding-top: 100px;
+    width: 80%;
+    margin: 0 auto ;
+}

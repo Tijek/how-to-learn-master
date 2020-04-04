@@ -1,0 +1,9 @@
+.logo_place_footer {
+    display: block;
+    position: absolute;
+    z-index: 9999;
+    left: 0;
+    top: 0;
+    width: 183px;
+    height: 35px;
+}

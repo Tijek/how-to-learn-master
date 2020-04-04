@@ -1,0 +1,6 @@
+@import url(../section-title/_digits/section-title_digits.css);
+@import url(../table/table.css);
+
+.digits {
+    padding-top: 100px;
+}
