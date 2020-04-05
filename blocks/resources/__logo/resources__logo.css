@@ -1,11 +1,9 @@
-.resources__logo-zone {
-    display: flex;
-    flex-direction: row;
-    width: 1100px;
-    margin: 80px auto 0;
-}
-
 .recources__logo {
     width: 270px;
     height: 38px;
+}
+
+.recources__logo:hover {
+    opacity: 0.6;
+    transition: 0.5s linear;
 }

@@ -1,4 +1,4 @@
-.header__square-pick {
+.header__square-pic {
     position: absolute;
     animation: rotation linear 20s infinite forwards;
     transform: rotate(-15deg);
@@ -7,14 +7,4 @@
     width: 568px;
     height: 568px;
     background-color: #2F80ED;
-}
-
-@keyframes rotation {
-    0% {
-        transform: rotate(0deg);
-    }
-
-    100% {
-        transform: rotate(360deg);
-    }
 }
