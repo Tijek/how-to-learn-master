@@ -1,7 +1,7 @@
 .two-columns__paragraph {
-    margin: 0;
+    margin: 20px;
 }
 
-.two-columns__paragraph:nth-child(2) {
-    margin:30px 0 30px;
+.two-columns__paragraph:last-child {
+    margin: 0;
 }
